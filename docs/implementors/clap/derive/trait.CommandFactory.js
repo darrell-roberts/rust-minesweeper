@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rust_minesweeper"] = [{"text":"impl CommandFactory for <a class=\"struct\" href=\"rust_minesweeper/lib/struct.ProgramArgs.html\" title=\"struct rust_minesweeper::lib::ProgramArgs\">ProgramArgs</a>","synthetic":false,"types":["rust_minesweeper::lib::ProgramArgs"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

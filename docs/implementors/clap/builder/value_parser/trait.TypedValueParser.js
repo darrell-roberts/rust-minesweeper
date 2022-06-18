@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rust_minesweeper"] = [{"text":"impl TypedValueParser for <a class=\"struct\" href=\"rust_minesweeper/lib/struct.DimensionParser.html\" title=\"struct rust_minesweeper::lib::DimensionParser\">DimensionParser</a>","synthetic":false,"types":["rust_minesweeper::lib::DimensionParser"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

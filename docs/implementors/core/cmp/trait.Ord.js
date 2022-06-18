@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rust_minesweeper"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.61.0/core/cmp/trait.Ord.html\" title=\"trait core::cmp::Ord\">Ord</a> for <a class=\"struct\" href=\"rust_minesweeper/lib/struct.Pos.html\" title=\"struct rust_minesweeper::lib::Pos\">Pos</a>","synthetic":false,"types":["rust_minesweeper::lib::Pos"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

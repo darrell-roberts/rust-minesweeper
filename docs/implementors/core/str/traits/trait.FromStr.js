@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rust_minesweeper"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.61.0/core/str/traits/trait.FromStr.html\" title=\"trait core::str::traits::FromStr\">FromStr</a> for <a class=\"enum\" href=\"rust_minesweeper/enum.Command.html\" title=\"enum rust_minesweeper::Command\">Command</a>","synthetic":false,"types":["rust_minesweeper::Command"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

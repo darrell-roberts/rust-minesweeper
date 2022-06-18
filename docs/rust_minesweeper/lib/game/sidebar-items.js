@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["adjacent_cells","Generate adjacent positions from provided position."]]});
